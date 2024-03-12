@@ -44,4 +44,4 @@ Ce projet est sous licence [MIT LICENSE]. Voir le fichier LICENSE.md pour plus d
 ## Auteurs
 
 - [Samy Hammadi]([lien-vers-le-profil-github-auteur-1](https://github.com/TheJoltMaster?fbclid=IwAR1J8KhuAtJLKw6E8U_VfFe27yRhouJ5SZ6G6OY4u9evMJeAfwvnEdXV0Po))
-- [Khoukhi Aymen](lien-vers-le-profil-github-auteur-2)
+- [Khoukhi Aymen]([lien-vers-le-profil-github-auteur-2](https://github.com/khoukhi-aymen)https://github.com/khoukhi-aymen)
