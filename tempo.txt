@@ -1,0 +1,22 @@
+var a = document.createElement('button');
+a.setAttribute('id', 'send');
+a.style.width ="100px";
+a.style.height ="60px";
+a.innerText ="CONFIRMER CHOIX";
+document.body.appendChild(a);
+
+ var mat = {
+'blanc':[],
+'noir':[]
+};    
+var text = JSON.stringify(mat);  
+console.log(text);
+function envoi(){
+let xhr = new XMLHttpRequest();
+let url = "matrice.php";
+xhr.open("POST",url,true);
+xhr.setRequestHeader("Content_Type","application/json");
+xhr.send(text);
+
+}  
+a.addEventListener('click',envoi());

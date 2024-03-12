@@ -1,0 +1,81 @@
+table {
+    margin: auto;
+    border: outset 5px black;
+
+}
+
+td{
+    width: 60px;
+    height: 60px;
+    margin: 0;
+    text-align: center;
+}
+
+
+.case-noire{
+    background-color: #380d08;
+
+}
+
+.opaque{
+    background-color: #fff;
+    opacity: 0.5;
+}
+
+.case-blanche{
+    background-color: #fff;
+}
+
+.pion-blanc {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: #ffbf85;
+}
+
+/** Changer pour du canvas**/
+.dame-blanc {
+    background-image: url('crown.png');
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 25px;
+    border: 1px solid red;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: #ffbf85;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pion-noire{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: #4b4b4b;
+}
+
+/** Faire un canvas en html5 css3**/
+.dame-noire {
+    background-image: url('crown.png');
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 25px;
+    border: 1px solid red;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: #4b4b4b;
+    background-repeat: no-repeat;
+    background-position: center;
+}

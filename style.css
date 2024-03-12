@@ -1,0 +1,48 @@
+body{
+    background: url('pexels-pixabay-459275.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 20px;
+}
+
+.container{
+    max-width: 380px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    border-radius: 12px;
+    padding: 40px;
+    color: #fff;
+    box-sizing: border-box;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+}
+input{
+    width: 100%;
+    margin: 10px 0;
+    font-size: 13px;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+    padding: 10px 6px;
+    font-weight: bold;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px #fff solid;
+}
+button{
+    width: 80%;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: green;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    margin: 30px 10px 0px 10px;
+}
