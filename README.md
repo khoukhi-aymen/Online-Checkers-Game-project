@@ -34,10 +34,10 @@ How to Play
 # Contributions
 
 We welcome contributions. Please refer to our contribution guidelines.([lien-vers-le-profil-github-auteur-1](https://github.com/TheJoltMaster?fbclid=IwAR1J8KhuAtJLKw6E8U_VfFe27yRhouJ5SZ6G6OY4u9evMJeAfwvnEdXV0Po))
-License
+# License
 
 This project is licensed under the [MIT License]. See the LICENSE.md file for more details.
-Authors
+# Authors
 
     - [Samy Hammadi]([lien-vers-le-profil-github-auteur-1](https://github.com/TheJoltMaster?fbclid=IwAR1J8KhuAtJLKw6E8U_VfFe27yRhouJ5SZ6G6OY4u9evMJeAfwvnEdXV0Po))
     - [Khoukhi Aymen]([lien-vers-le-profil-github-auteur-2](https://github.com/khoukhi-aymen)https://github.com/khoukhi-aymen)
